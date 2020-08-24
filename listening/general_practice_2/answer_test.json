@@ -1,0 +1,138 @@
+[
+  {
+    "question": "q1",
+    "answer": "tutoring sessions"
+  },
+  {
+    "question": "q2",
+    "answer": "Sunday"
+  },
+  {
+    "question": "q3",
+    "answer": "teens, adults"
+  },
+  {
+    "question": "q4",
+    "answer": "yoga (classes)",
+    "real_answer": "yoga"
+  },
+  {
+    "question": "q5",
+    "answer": "Adults/Adults only"
+  },
+  {
+    "question": "q6",
+    "answer": "75"
+  },
+  {
+    "question": "q7",
+    "answer": "225"
+  },
+  {
+    "question": "q8",
+    "answer": "Eliot"
+  },
+  {
+    "question": "q9",
+    "answer": "across the street/in a garage"
+  },
+  {
+    "question": "q10",
+    "answer": "Monday"
+  },
+  {
+    "question": "q11_q15",
+    "answer": "A,D,E,F,I",
+    "multiple_choice": true
+  },
+  {
+    "question": "q16",
+    "answer": "sweep/rear leader"
+  },
+  {
+    "question": "q17",
+    "answer": "intersection "
+  },
+  {
+    "question": "q18",
+    "answer": "(some) rocks",
+    "real_answer": "rocks"
+  },
+  {
+    "question": "q19",
+    "answer": "feed "
+  },
+  {
+    "question": "q20",
+    "answer": "water bottle "
+  },
+  {
+    "question": "q21_q24",
+    "answer": "A,B,D,F",
+    "multiple_choice": true
+  },
+  {
+    "question": "q25",
+    "answer": "B"
+  },
+  {
+    "question": "q26",
+    "answer": "term paper topic"
+  },
+  {
+    "question": "q27",
+    "answer": "first evaluation "
+  },
+  {
+    "question": "q28",
+    "answer": "student teacher conference"
+  },
+  {
+    "question": "q29",
+    "answer": "term paper"
+  },
+  {
+    "question": "q30",
+    "answer": "semester review"
+  },
+  {
+    "question": "q31",
+    "answer": "A"
+  },
+  {
+    "question": "q32",
+    "answer": "C"
+  },
+  {
+    "question": "q33",
+    "answer": "A"
+  },
+  {
+    "question": "q34",
+    "answer": "B"
+  },
+  {
+    "question": "q35",
+    "answer": "C"
+  },
+  {
+    "question": "q36",
+    "answer": "spend money"
+  },
+  {
+    "question": "q37",
+    "answer": "leave faster"
+  },
+  {
+    "question": "q38",
+    "answer": "security"
+  },
+  {
+    "question": "q39",
+    "answer": "younger people/clientele"
+  },
+  {
+    "question": "q40",
+    "answer": "older people/clientele"
+  }
+]
