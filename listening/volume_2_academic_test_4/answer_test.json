@@ -1,0 +1,159 @@
+[
+  {
+    "question": "q1",
+    "answer": "C"
+  },
+  {
+    "question": "q2_q3",
+    "answer": "C,E",
+    "multiple_choice": true
+  },
+  {
+    "question": "q4",
+    "answer": "non-smoking"
+  },
+  {
+    "question": "q5",
+    "answer": "laundry"
+  },
+  {
+    "question": "q6",
+    "answer": "quiet"
+  },
+  {
+    "question": "q7",
+    "answer": "parking"
+  },
+  {
+    "question": "q8",
+    "answer": "party"
+  },
+  {
+    "question": "q9",
+    "answer": "6:00 am/6 am"
+  },
+  {
+    "question": "q10",
+    "answer": "front door key"
+  },
+  {
+    "question": "q11",
+    "answer": "6/six"
+  },
+  {
+    "question": "q12",
+    "answer": "20"
+  },
+  {
+    "question": "q13",
+    "answer": "venue"
+  },
+  {
+    "question": "q14",
+    "answer": "court 4"
+  },
+  {
+    "question": "q15",
+    "answer": "Sunday afternoons"
+  },
+  {
+    "question": "q16",
+    "answer": "Saturday"
+  },
+  {
+    "question": "q17",
+    "answer": "coach"
+  },
+  {
+    "question": "q18",
+    "answer": "barbecue (dinner)",
+    "real_answer": "barbecue/barbecue dinner"
+  },
+  {
+    "question": "q19",
+    "answer": "MVP"
+  },
+  {
+    "question": "q20",
+    "answer": "confirm letter"
+  },
+
+  {
+    "question": "q21",
+    "answer": "614 "
+  },
+  {
+    "question": "q22",
+    "answer": "2:00 p.m/2:00 pm/2 pm/2 o'clock"
+  },
+    {
+    "question": "q23",
+    "answer": "extend thesis deadline"
+  },
+    {
+    "question": "q24",
+    "answer": "reading materials"
+  },
+   {
+    "question": "q25",
+    "answer": "A"
+  },
+
+  {
+    "question": "q26",
+    "answer": "F"
+  },
+    {
+    "question": "q27",
+    "answer": "E"
+  },
+    {
+    "question": "q28",
+    "answer": "D"
+  },
+    {
+    "question": "q29_q30",
+    "answer": "A,D",
+    "multiple_choice": true
+  },
+  {
+    "question": "q31",
+    "answer": "shooting star"
+  },
+  {
+    "question": "q32",
+    "answer": "solar"
+  },
+  {
+    "question": "q33",
+    "answer": "meteor showers "
+  },
+  {
+    "question": "q34",
+    "answer": "1833"
+  },
+  {
+    "question": "q35",
+    "answer": "comets"
+  },
+  {
+    "question": "q36",
+    "answer": "fireball"
+  },
+  {
+    "question": "q37",
+    "answer": "white"
+  },
+    {
+    "question": "q38",
+    "answer": "thunderstorms/thunderstones"
+  },
+  {
+    "question": "q39",
+    "answer": "June 30 (th)/June 30"
+  },
+  {
+    "question": "q40",
+    "answer": "65 million"
+  }
+]
