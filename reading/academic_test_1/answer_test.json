@@ -1,0 +1,158 @@
+[
+  {
+    "question": "q1",
+    "answer": "v"
+  },
+  {
+    "question": "q2",
+    "answer": "i"
+  },
+  {
+    "question": "q3",
+    "answer": "vi"
+  },
+  {
+    "question": "q4",
+    "answer": "x"
+  },
+  {
+    "question": "q5",
+    "answer": "ix"
+  },
+  {
+    "question": "q6",
+    "answer": "iv"
+  },
+  {
+    "question": "q7",
+    "answer": "ii"
+  },
+  {
+    "question": "q8",
+    "answer": "TRUE"
+  },
+  {
+    "question": "q9",
+    "answer": "TRUE"
+  },
+  {
+    "question": "q10",
+    "answer": "NOT GIVEN"
+  },
+  {
+    "question": "q11_q13",
+    "answer": "C,D,E",
+    "multiple_choice": true
+  },
+  {
+    "question": "q14",
+    "answer": "YES"
+  },
+  {
+    "question": "q15",
+    "answer": "YES"
+  },
+  {
+    "question": "q16",
+    "answer": "NO"
+  },
+  {
+    "question": "q17",
+    "answer": "NOT GIVEN"
+  },
+  {
+    "question": "q18",
+    "answer": "YES"
+  },
+  {
+    "question": "q19",
+    "answer": "NOT GIVEN"
+  },
+  {
+    "question": "q20",
+    "answer": "1976,1995"
+  },
+  {
+    "question": "q21",
+    "answer": "2000 floods/flooding"
+  },
+  {
+    "question": "q22",
+    "answer": "1998 and 2002/1998,2002"
+  },
+  {
+    "question": "q23",
+    "answer": "1990"
+  },
+  {
+    "question": "q24",
+    "answer": "1781"
+  },
+  {
+    "question": "q25",
+    "answer": "France"
+  },
+  {
+    "question": "q26",
+    "answer": "D"
+  },
+  {
+    "question": "q27",
+    "answer": "B"
+
+  },
+    {
+    "question": "q28",
+    "answer": "C"
+
+  },
+    {
+    "question": "q29",
+    "answer": "H"
+
+  },
+  {
+    "question": "q30",
+    "answer": "G"
+  },
+  {
+    "question": "q31",
+    "answer": "E"
+  },
+  {
+    "question": "q32",
+    "answer": "D"
+  },
+  {
+    "question": "q33",
+    "answer": "A"
+  },
+  {
+    "question": "q34",
+    "answer": "bee-keeping"
+  },
+  {
+    "question": "q35",
+    "answer": "life cycles"
+  },
+  {
+    "question": "q36",
+    "answer": "droughts"
+  },
+  {
+    "question": "q37",
+    "answer": "C"
+  },
+  {
+    "question": "q38",
+    "answer": "A"
+  },
+  {
+    "question": "q39",
+    "answer": "D"
+  },
+  {
+    "question": "q40",
+    "answer": "D"
+  }
+]
